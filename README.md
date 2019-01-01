@@ -1,6 +1,6 @@
 # TensorFlow.js and Keras Demo
 
-## Local and Heroku Installation
+## Local Installation
 
 ### Citations
 
