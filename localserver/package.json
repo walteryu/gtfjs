@@ -5,6 +5,9 @@
         "express": "latest",
         "nodemon": "1.18.9"
     },
+    "engines": {
+      "node": "10.x"
+    },
     "main": "server.js",
     "scripts": {
       "start": "node localserver/server.js",
@@ -13,5 +16,10 @@
     "repository": {
       "type": "git",
       "url": "https://github.com/walteryu/gtfjs"
-    }
+    },
+    "keywords": [
+      "node",
+      "heroku",
+      "express"
+    ]
 }
