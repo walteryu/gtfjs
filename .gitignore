@@ -1,0 +1,16 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+.DS_Store
+git_rm.sh
+check_repo.sh
+node_modules
+package-lock.json
+
+# Docker
+Dockerfile
+docker-compose.yml
